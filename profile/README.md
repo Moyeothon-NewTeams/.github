@@ -47,9 +47,19 @@
 </p>
 
 ## ✨ 서버 플로우 동작
-<p align="center">
-    <img src="image/백 플로우.jpeg" alt="카카오 로그인">
-</p>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd;">
+  <tr>
+    <td align="center" style="border: 1px solid #ddd;">
+      <strong>서버 플로우</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: 1px solid #ddd;">
+      <img src="image/백 플로우.jpeg" width="800px">
+    </td>
+  </tr>
+</table>
 
 ## 💻 웹페이지 최종 동작
 <table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd;">
