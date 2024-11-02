@@ -124,7 +124,7 @@
   <tr>
     <td align="center" style="border: 1px solid #ddd;">
       <a href="https://github.com/user-attachments/assets/427eb753-d4cb-48fe-9025-bd189b1cbf00" target="_blank">
-        <img src="image/썸네일.png" width="800px" alt="데모 동영상">
+        <img src="image/7890.jpeg" width="800px" alt="데모 동영상">
       </a>
     </td>
   </tr>
