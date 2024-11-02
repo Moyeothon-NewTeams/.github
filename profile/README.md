@@ -3,7 +3,7 @@
   🌇 바쁜 현대인들의 힐링과 낭만을 추구하고 누릴 수 있도록하는 서비스 - 낭만 버킷리스트 🌇
 </p>
 <p align="center">
-    🙋 링크 - https://moyeothon.vercel.app/ 🙋
+    🙋 https://moyeothon.vercel.app/ 🙋
 </p>
 
 ## 🧑‍💻 멤버
@@ -12,7 +12,7 @@
 |프로필|<img src="https://avatars.githubusercontent.com/u/145003970?v=4"/>|<img src="https://avatars.githubusercontent.com/u/97329194?v=4"/>|<img src="https://avatars.githubusercontent.com/u/159096610?v=4"/>|<img src="https://avatars.githubusercontent.com/u/144472331?v=4"/>|<img src="https://avatars.githubusercontent.com/u/130127934?v=4"/>|
 |역할|<img src="https://skillicons.dev/icons?i=react">|<img src="https://skillicons.dev/icons?i=react">|<img src="https://skillicons.dev/icons?i=spring">|<img src="https://skillicons.dev/icons?i=spring">|<img src="https://skillicons.dev/icons?i=spring">|
 
-## 🙋 서비스 소개
+## 📝 서비스 소개
 - 다양한 사람들과 낭만 가득한 버킷리스트를 공유하고 함께 새로운 경험을 쌓아가는 공간입니다.
 - 비 오는 날 포장마차 가기, 한강에서 캔맥 마시기, 번지점프 도전하기 등 자신만의 특별한 버킷리스트를 한 칸씩 업로드할 수 있습니다.
 - 같은 목표를 가진 사람들이 쪽지를 보내오면 수락하거나 거절할 수 있으며 수락 시 서로 소통할 수 있는 기회를 제공합니다.
@@ -23,12 +23,12 @@
 
 ### 🌏 Front
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=react"><img src="https://skillicons.dev/icons?i=ts">
+	<img src="https://skillicons.dev/icons?i=react"><img src="https://skillicons.dev/icons?i=vite"><img src="https://skillicons.dev/icons?i=tailwindcss"><img src="https://skillicons.dev/icons?i=ts">
 </p>
 
 ### 🌐 Back
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=java"><img src="https://skillicons.dev/icons?i=spring"><img src="https://skillicons.dev/icons?i=python"><img src="https://skillicons.dev/icons?i=gcp">
+	<img src="https://skillicons.dev/icons?i=spring"><img src="https://skillicons.dev/icons?i=java"><img src="https://skillicons.dev/icons?i=python"><img src="https://skillicons.dev/icons?i=gcp">
 </p>
 
 ### 💾 Database
@@ -41,9 +41,9 @@
     <img src="https://skillicons.dev/icons?i=aws"><img src="https://skillicons.dev/icons?i=nginx">
 </p>
 
-### 🗣️ Communication
+### 👥 Cooperation
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=figma"><img src="https://skillicons.dev/icons?i=notion"><img src="https://skillicons.dev/icons?i=discord">
+    <img src="https://skillicons.dev/icons?i=git"><img src="https://skillicons.dev/icons?i=github"><img src="https://skillicons.dev/icons?i=figma"><img src="https://skillicons.dev/icons?i=notion"><img src="https://skillicons.dev/icons?i=discord">
 </p>
 
 ## ✨ 서버 플로우 동작
