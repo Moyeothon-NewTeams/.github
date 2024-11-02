@@ -2,6 +2,9 @@
 <p align="center">
   🌇 바쁜 현대인들의 힐링과 낭만을 추구하고 누릴 수 있도록하는 서비스 - 낭만 버킷리스트 🌇
 </p>
+<p align="center">
+    🙋 링크 - https://moyeothon.vercel.app/ 🙋
+</p>
 
 ## 🧑‍💻 멤버
 |이름|[박예은](https://github.com/yengniws)|[황유빈](https://github.com/ppinppini)|[이예은](https://github.com/eunxeum)|[송성민](https://github.com/tjdals4716)|[박제영](https://github.com/Zero982)|
