@@ -45,7 +45,7 @@
 
 ## 서버 플로우 동작
 <p align="center">
-    <img src="profile/image/백 플로우.jpeg" alt="카카오 로그인">
+    <img src="image/백 플로우.jpeg">
 </p>
 
 ## 💻 웹페이지 최종 동작
