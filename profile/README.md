@@ -23,7 +23,7 @@
 
 ### 🌏 Front
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=react">
+	<img src="https://skillicons.dev/icons?i=react"><img src="https://skillicons.dev/icons?i=ts">
 </p>
 
 ### 🌐 Back
@@ -114,7 +114,7 @@
   </tr>
 </table>
 
-## ✨ 데모 시나리오 영상
+## 🎥 데모 시나리오 영상
 <table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd;">
   <tr>
     <td align="center" style="border: 1px solid #ddd;">
