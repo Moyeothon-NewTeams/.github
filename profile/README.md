@@ -113,3 +113,23 @@
     </td>
   </tr>
 </table>
+
+## ✨ 데모 시나리오 영상
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd;">
+  <tr>
+    <td align="center" style="border: 1px solid #ddd;">
+      <strong>데모 시나리오</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: 1px solid #ddd;">
+      <a href="https://github.com/user-attachments/assets/427eb753-d4cb-48fe-9025-bd189b1cbf00" target="_blank">
+        <img src="image/썸네일.png" width="800px" alt="데모 동영상">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
